@@ -1,0 +1,6 @@
+[submodule "doc-based-llm-backend"]
+	path = doc-based-llm-backend
+	url = https://github.com/Apoorvgarg-creator/doc-based-llm-backend.git
+[submodule "doc-based-llm-ft"]
+	path = doc-based-llm-ft
+	url = https://github.com/Apoorvgarg-creator/doc-based-llm-ft.git
